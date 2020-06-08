@@ -2,7 +2,7 @@
 
 (Potrebno dodati sdl.dll za grafiku.)
 
-Projekt u skločpu kolegija Umjetna inteligencija.
+Projekt u sklopu kolegija Umjetna inteligencija.
 Ana Parać, Sara Pužar, Petra Rožić, Paula Vujasić
 
 
